@@ -23,6 +23,7 @@ $ DTSH(24)
 Here 24 represents the traget code length and you may change it to other numbers.
 
 ## Reference ##
+If you use the code, please cite:
 ```
 @article{wang2016deep,
   title={Deep Supervised Hashing with Triplet Labels},
