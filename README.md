@@ -3,7 +3,7 @@ Deep Supervised Hashing with Triplet Labels
 
 This repository contains the code for the deep hashing approach proposed in our paper: 
 
-["Deep Supervised Hashing with Triplet Labels".](http://www.andrew.cmu.edu/user/xiaofan2/paper/DeepHashing-ACCV16.pdf) Xiaofang Wang, Yi Shi and Kris M. Kitani. ACCV 2016.
+["Deep Supervised Hashing with Triplet Labels".](https://arxiv.org/abs/1612.03900) Xiaofang Wang, Yi Shi and Kris M. Kitani. ACCV 2016.
 
 Part of the code is modified from [here](http://cs.nju.edu.cn/lwj/code/DPSH.zip).
 
